@@ -3,7 +3,8 @@
 
 Kafka-TIG Stack = Kafka + Telegraf + InfluxDB + Grafana Stack
 
-Read the blog on Medium: https://medium.com/@eternalamit5/kafka-tig-iot-stack-with-docker-compose-kafka-telegraf-influxdb-and-grafana-ab3cd40c2f18
+- Read the blog on Medium:
+  https://medium.com/@eternalamit5/kafka-tig-iot-stack-with-docker-compose-kafka-telegraf-influxdb-and-grafana-ab3cd40c2f18
 
 
 ## 1. Containerization using Docker-Compose
