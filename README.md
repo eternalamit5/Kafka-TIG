@@ -1,6 +1,6 @@
 # Kafka-TIG
 
-Kafka-TIG Stack = Kafka + Telegraf + InfluxDB + Grafana Stack
+## Kafka-TIG Stack = Kafka + Telegraf + InfluxDB + Grafana Stack
 
 ![KTIG](https://github.com/eternalamit5/Kafka-TIG/assets/44448083/e3575eec-8075-45a2-9369-7a7b2cb44570)
 
