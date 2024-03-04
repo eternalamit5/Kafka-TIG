@@ -1,7 +1,8 @@
 # Kafka-TIG
 
-
 Kafka-TIG Stack = Kafka + Telegraf + InfluxDB + Grafana Stack
+
+![KTIG](https://github.com/eternalamit5/Kafka-TIG/assets/44448083/e3575eec-8075-45a2-9369-7a7b2cb44570)
 
 - Read the blog on Medium:
   https://medium.com/@eternalamit5/kafka-tig-iot-stack-with-docker-compose-kafka-telegraf-influxdb-and-grafana-ab3cd40c2f18
